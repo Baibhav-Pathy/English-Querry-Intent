@@ -1,0 +1,74 @@
+﻿query,intent
+Yes,Yes
+Yeah,Yes
+Yeah sure,Yes
+Yep,Yes
+Correct,Yes
+Right,Yes
+OK,Yes
+Yup,Yes
+Okay,Yes
+Alright,Yes
+Agree,Yes
+I agree,Yes
+Sure,Yes
+Agreed,Yes
+Of course,Yes
+Absolutely,Yes
+Affirmative,Yes
+Definitely,Yes
+Positively,Yes
+Positive,Yes
+Sure thing,Yes
+Yes it is,Yes
+By all means,Yes
+"Absolutely, yes",Yes
+"Of course, yes",Yes
+I am in,Yes
+All right,Yes
+For sure,Yes
+You are right,Yes
+I agree completely,Yes
+Yes please,Yes
+"Yes, always",Yes
+Yes I want you to,Yes
+Go ahead,Yes
+Sure man,Yes
+Yes it is correct,Yes
+I know,Yes
+I am aware,Yes
+no,No
+nah,No
+not really,No
+don't need,No
+no need,No
+disagree,No
+nope,No
+nopes,No
+nahin,No
+I dont care,No
+dont agree,No
+nahh,No
+"I dont know, I dont care",No
+Dont know,No
+Never,No
+Not correct,No
+Wrong,No
+Its wrong,No
+I do not want,No
+It is wrong,No
+It is not correct,No
+Noo,No
+Its is wrong,No
+Wrong,No
+No its not correct,No
+That is nor right,No
+That is wrong,No
+No never,No
+na,No
+I do not know,No
+I disagree,No
+Negative,No
+I do not think so,No
+I do not want to,No
+I will not do it,No
